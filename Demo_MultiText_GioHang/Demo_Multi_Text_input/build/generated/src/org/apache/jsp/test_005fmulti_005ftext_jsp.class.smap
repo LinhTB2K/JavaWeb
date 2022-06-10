@@ -1,0 +1,16 @@
+SMAP
+test_005fmulti_005ftext_jsp.java
+JSP
+*S JSP
+*F
++ 0 test_multi_text.jsp
+test_multi_text.jsp
+*L
+5,22:45
+28,7:69
+34:76
+35:77,5
+36,2:82
+38,2:85
+39,6:87
+*E

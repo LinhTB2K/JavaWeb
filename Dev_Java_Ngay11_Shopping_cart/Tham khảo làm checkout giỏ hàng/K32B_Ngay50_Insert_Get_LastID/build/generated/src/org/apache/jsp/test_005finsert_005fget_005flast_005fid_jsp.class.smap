@@ -1,0 +1,12 @@
+SMAP
+test_005finsert_005fget_005flast_005fid_jsp.java
+JSP
+*S JSP
+*F
++ 0 test_insert_get_last_id.jsp
+test_insert_get_last_id.jsp
+*L
+5,14:46
+19,8:61
+26,4:69
+*E

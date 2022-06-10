@@ -1,0 +1,7 @@
+Xử lý Đặt hàng:
+B1. Insert 1 bản ghi mới vào bảng tbhoadon (tên người mua, điện thoại, ngaymua, trạng thái), mahd là tự động tăng
+B2. Lấy mahd mới nhất vừa được sinh ra
+B3. Duyệt giỏ hàng, chèn các sản phẩm của giỏ hàng vào bảng tbchitiethoadon
+id, mahd, id_sp, soluong, giamua
+id: primary key
+(mahd,id_sp): unique
